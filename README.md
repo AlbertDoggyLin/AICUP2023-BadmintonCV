@@ -29,13 +29,15 @@ this repo collects team_3008 codes for AICUP2023 badminton competition
   - pose location model
 
 ## code
-- training
-  - [hitframe recognition ]()
-  - [ball type recognition and ball location]()
-  - [pose recognition]()
-  - [pose location]()
-- inference
-  - [hitframe recognition ]()
-  - [ball type recognition and ball location]()
-  - [pose recognition]()
-  - [pose location]()
+- Training
+  - [hitframe recognition](Train_3D_hitframe.ipynb)
+  - [ball type recognition and ball location](Train_3D_Balltype.ipynb)
+  - [hitter-defender recognition](train_efficient_5fold_hitter.ipynb)
+  - [server-nonserver recognition](train_efficient_5fold_serve.ipynb)
+  - [pose recognition](train_efficient_5fold_classification.ipynb)
+  - [pose location](train_efficient_distance_with_augmentation.ipynb)
+- Data Processing
+  - [hitframe recognition](Test_3D_hitframe.ipynb)
+  - [hitframe inference & 2D model inference](inference_classification.ipynb)
+  - [balltype recognition and ball location](./Test_3D_Balltype.ipynb)
+  - [player preprocess](yolo_preprocess.ipynb)
