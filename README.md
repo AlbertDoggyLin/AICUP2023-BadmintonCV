@@ -17,3 +17,13 @@ this repo collect team_3008 codes for AICUP2023 badminton competition
 - Efficientnet b0: imagenet weight
 - Channel-Separated Convolutional Networks(CSN): Kinetics-400
 - YOLO v8-x
+
+## Flow chart
+
+## Trained Model
+- CSN based
+  - hitframe model
+  - balltype model
+- Efficientnet based
+  - pose classification model
+  - pose location model
