@@ -28,7 +28,7 @@ this repo collects team_3008 codes for AICUP2023 badminton competition
   - pose classification model
   - pose location model
 
-## code
+## Codes
 - Training
   - [hitframe recognition](Train_3D_hitframe.ipynb)
   - [ball type recognition and ball location](Train_3D_Balltype.ipynb)
