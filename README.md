@@ -1,6 +1,6 @@
 # AICUP2023-BadmintonCV
 
-this repo collect team_3008 codes for AICUP2023 badminton competition 
+this repo collects team_3008 codes for AICUP2023 badminton competition 
 
 ## Environment
 - OS: Windows10
