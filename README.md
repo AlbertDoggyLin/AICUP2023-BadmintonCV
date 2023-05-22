@@ -27,3 +27,15 @@ this repo collects team_3008 codes for AICUP2023 badminton competition
 - Efficientnet based
   - pose classification model
   - pose location model
+
+## code
+- training
+  - [hitframe recognition ]()
+  - [ball type recognition and ball location]()
+  - [pose recognition]()
+  - [pose location]()
+- inference
+  - [hitframe recognition ]()
+  - [ball type recognition and ball location]()
+  - [pose recognition]()
+  - [pose location]()
