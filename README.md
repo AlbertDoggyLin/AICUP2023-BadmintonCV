@@ -20,6 +20,8 @@ this repo collects team_3008 codes for AICUP2023 badminton competition
 
 ## Flow chart
 
+![flow chart](flow_chart.png)
+
 ## Trained Model
 - CSN based
   - hitframe model
