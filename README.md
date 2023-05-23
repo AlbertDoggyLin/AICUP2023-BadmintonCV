@@ -27,6 +27,7 @@ this repo collects team_3008 codes for AICUP2023 badminton competition
   - hitframe model
   - balltype model
 - Efficientnet based
+  - hitter-defender model
   - pose classification model
   - pose location model
 
